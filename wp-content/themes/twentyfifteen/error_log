@@ -1,0 +1,10 @@
+[15-Nov-2017 18:05:51 America/New_York] PHP Fatal error:  Call to undefined function the_ID() in /home/andrqhfo/public_html/wp-content/themes/twentyfifteen/content.php on line 13
+[15-Nov-2017 18:12:07 America/New_York] PHP Fatal error:  Call to undefined function the_ID() in /home/andrqhfo/public_html/wp-content/themes/twentyfifteen/content.php on line 13
+[16-Nov-2017 17:21:58 America/New_York] PHP Fatal error:  Call to undefined function get_header() in /home/andrqhfo/public_html/wp-content/themes/twentyfifteen/archive.php on line 19
+[16-Nov-2017 17:28:39 America/New_York] PHP Fatal error:  Call to undefined function get_header() in /home/andrqhfo/public_html/wp-content/themes/twentyfifteen/archive.php on line 19
+[24-Nov-2017 12:13:35 America/New_York] PHP Fatal error:  Call to undefined function _e() in /home/andrqhfo/public_html/wp-content/themes/twentyfifteen/author-bio.php on line 12
+[24-Nov-2017 12:16:15 America/New_York] PHP Fatal error:  Call to undefined function do_action() in /home/andrqhfo/public_html/wp-content/themes/twentyfifteen/footer.php on line 23
+[24-Nov-2017 12:18:52 America/New_York] PHP Fatal error:  Call to undefined function get_header() in /home/andrqhfo/public_html/wp-content/themes/twentyfifteen/404.php on line 10
+[24-Nov-2017 12:19:38 America/New_York] PHP Fatal error:  Call to undefined function _e() in /home/andrqhfo/public_html/wp-content/themes/twentyfifteen/author-bio.php on line 12
+[26-Nov-2017 06:57:21 America/New_York] PHP Fatal error:  Call to undefined function the_ID() in /home/andrqhfo/public_html/wp-content/themes/twentyfifteen/content-link.php on line 13
+[26-Nov-2017 07:12:05 America/New_York] PHP Fatal error:  Call to undefined function the_ID() in /home/andrqhfo/public_html/wp-content/themes/twentyfifteen/content-link.php on line 13

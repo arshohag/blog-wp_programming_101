@@ -1,0 +1,4 @@
+[29-Oct-2017 22:54:38 America/New_York] PHP Fatal error:  Call to undefined function get_header() in /home/andrqhfo/public_html/wp-content/themes/twentysixteen/404.php on line 10
+[29-Oct-2017 23:05:20 America/New_York] PHP Fatal error:  Call to undefined function get_header() in /home/andrqhfo/public_html/wp-content/themes/twentysixteen/404.php on line 10
+[16-Nov-2017 05:45:44 America/New_York] PHP Fatal error:  Call to undefined function get_header() in /home/andrqhfo/public_html/wp-content/themes/twentysixteen/404.php on line 10
+[16-Nov-2017 05:51:42 America/New_York] PHP Fatal error:  Call to undefined function get_header() in /home/andrqhfo/public_html/wp-content/themes/twentysixteen/404.php on line 10
